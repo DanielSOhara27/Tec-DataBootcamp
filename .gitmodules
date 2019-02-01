@@ -1,3 +1,24 @@
 [submodule "Assignments/DataBootcamp_SQLHomework"]
 	path = Assignments/DataBootcamp_SQLHomework
 	url = https://github.com/DanielSOhara27/DataBootcamp_SQLHomework
+[submodule "Assignments/DataBootcamp-Python-API-HW"]
+	path = Assignments/DataBootcamp-Python-API-HW
+	url = https://github.com/DanielSOhara27/DataBootcamp-Python-API-HW
+[submodule "InClassWork/DataBootcamp-ORM-Module"]
+	path = InClassWork/DataBootcamp-ORM-Module
+	url = https://github.com/DanielSOhara27/DataBootcamp-ORM-Module
+[submodule "InClassWork/DataBootcamp-python-api-module"]
+	path = InClassWork/DataBootcamp-python-api-module
+	url = https://github.com/DanielSOhara27/DataBootcamp-python-api-module
+[submodule "InClassWork/DataBootcamp-PandasPython-Module"]
+	path = InClassWork/DataBootcamp-PandasPython-Module
+	url = https://github.com/DanielSOhara27/DataBootcamp-PandasPython-Module
+[submodule "InClassWork/DataBootcamp-Matplotlib-Module"]
+	path = InClassWork/DataBootcamp-Matplotlib-Module
+	url = https://github.com/DanielSOhara27/DataBootcamp-Matplotlib-Module
+[submodule "InClassWork/DataBootcamp-PythonVanilla-Module"]
+	path = InClassWork/DataBootcamp-PythonVanilla-Module
+	url = https://github.com/DanielSOhara27/DataBootcamp-PythonVanilla-Module
+[submodule "InClassWork/DataBootcamp-VBA-Module"]
+	path = InClassWork/DataBootcamp-VBA-Module
+	url = https://github.com/DanielSOhara27/DataBootcamp-VBA-Module
