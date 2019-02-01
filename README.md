@@ -1,2 +1,5 @@
 # Tec-DataBootcamp
-This is my online repository for the work and projects related to the University's (Executive Course/Program) Data Bootcamp
+This is a repository of repositories where I am going to be hosting all my work related to the Data Bootcamp.
+
+## Notes
+Followed examples provided at https://git-scm.com/book/en/v2/Git-Tools-Submodules
