@@ -28,3 +28,6 @@
 [submodule "Assignments/DataBootcamp-PandasChallenge-HW"]
 	path = Assignments/DataBootcamp-PandasChallenge-HW
 	url = https://github.com/DanielSOhara27/DataBootcamp-PandasChallenge-HW
+[submodule "InClassWork/DataBootcamp-Web-Module"]
+	path = InClassWork/DataBootcamp-Web-Module
+	url = https://github.com/DanielSOhara27/DataBootcamp-Web-Module
