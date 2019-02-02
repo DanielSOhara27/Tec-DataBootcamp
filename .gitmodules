@@ -22,3 +22,9 @@
 [submodule "InClassWork/DataBootcamp-VBA-Module"]
 	path = InClassWork/DataBootcamp-VBA-Module
 	url = https://github.com/DanielSOhara27/DataBootcamp-VBA-Module
+[submodule "Assignments/DataBootcamp-PythonChallenge-HW"]
+	path = Assignments/DataBootcamp-PythonChallenge-HW
+	url = https://github.com/DanielSOhara27/DataBootcamp-PythonChallenge-HW
+[submodule "Assignments/DataBootcamp-PandasChallenge-HW"]
+	path = Assignments/DataBootcamp-PandasChallenge-HW
+	url = https://github.com/DanielSOhara27/DataBootcamp-PandasChallenge-HW
